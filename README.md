@@ -29,30 +29,28 @@ https://img.shields.io/github/followers/Ahmad?label=follow&style=social](https:/
 
 ### 🛠 &nbsp;Tech Stack
 
-https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&nbsp;
-https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&nbsp;
-!https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&nbsp;
-!https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&nbsp;
-!https://img.shields.io/badge/Tailwind_CSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white&nbsp;
-!https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue&nbsp;
-!https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&nbsp;
-!https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&nbsp;
-!https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&nbsp;
-!https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&nbsp;
-!https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&nbsp;
-!https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&nbsp;
-!https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&nbsp;
-!https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&nbsp;
-!https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&nbsp;
-!https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white&nbsp;
-!https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&nbsp;
-!https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&nbsp;
-!https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&nbsp;
-!https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&nbsp;
-!https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C&nbsp;
-!https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&nbsp;
-!https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&nbsp;
-!https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
