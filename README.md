@@ -10,12 +10,16 @@
 />
 
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-!https://img.shields.io/badge/version-20.08.2021-informational &nbsp;
-!https://komarev.com/ghpvc/?username=Ahmad&color=red&nbsp;
-https://img.shields.io/github/followers/Ahmad?label=follow&style=social](https://github.com/AhmadAli88)&nbsp;
-!https://img.shields.io/badge/build-passing-success
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there!
+<img alt="version" src="https://img.shields.io/badge/version-20.08.2021-informational" />&nbsp;
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ahmad&color=red" />&nbsp;
+<a href="https://github.com/AhmadAli88">
+  <img alt="Followers" src="https://img.shields.io/github/followers/AhmadAli88?label=follow&style=social" />
+</a>&nbsp;
+<img alt="Build Status" src="https://img.shields.io/badge/build-passing-success" />
+
 ### 👨🏻‍💻 &nbsp;About Me
+
 
 💡 &nbsp; I'am a website developer specializing in the React JS, Next JS, MERN stack and working as Frontend developer \
 💻 &nbsp;I'am currently working as a software developer in a tech company. \
