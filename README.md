@@ -29,8 +29,8 @@ https://img.shields.io/github/followers/Ahmad?label=follow&style=social](https:/
 
 ### 🛠 &nbsp;Tech Stack
 
-!https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&nbsp;
-!https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&nbsp;
+https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&nbsp;
+https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&nbsp;
 !https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&nbsp;
 !https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&nbsp;
 !https://img.shields.io/badge/Tailwind_CSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white&nbsp;
