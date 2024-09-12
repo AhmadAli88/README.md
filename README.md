@@ -17,13 +17,13 @@ https://img.shields.io/github/followers/Ahmad?label=follow&style=social](https:/
 !https://img.shields.io/badge/build-passing-success
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'am a website developer specializing in the React JS, Next JS, MERn stack and working as Frontend developer \
+💡 &nbsp; I'am a website developer specializing in the React JS, Next JS, MERN stack and working as Frontend developer \
 💻 &nbsp;I'am currently working as a software developer in a tech company. \
-🎓&nbsp;I graduated form Lahore Garrison University (Bachelor of Science in Computer Science, Batch of 2018-2022).\
+🎓&nbsp;I graduated form  University of Education (Bachelor of Science in Computer Science, Batch of 2015-2019).\
 🌱 &nbsp;I'm on track for learning more about Website, Application Development, Artificial  and Computer Vision.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the Programming and software developement topics!\
-✉️ &nbsp;You can email me at mailto:codewithdevelopement@gmail.com I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at mailto:maherahmadsharafat423@gmail.com I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my https://drive.google.com/file/d/1APf8exYUfZACWNUn0Og4xcw_b75Ad1lg/view for more details about work experience.
 
 
