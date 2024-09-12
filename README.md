@@ -12,12 +12,12 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 !https://img.shields.io/badge/version-20.08.2021-informational &nbsp;
-!https://komarev.com/ghpvc/?username=AliRaza&color=red&nbsp;
-https://img.shields.io/github/followers/AliRaza?label=follow&style=social](https://github.com/Ali-Raza-400)&nbsp;
+!https://komarev.com/ghpvc/?username=Ahmad&color=red&nbsp;
+https://img.shields.io/github/followers/Ahmad?label=follow&style=social](https://github.com/AhmadAli88)&nbsp;
 !https://img.shields.io/badge/build-passing-success
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'am a website developer specializing in the MERN stack and working as FullStack developer \
+💡 &nbsp; I'am a website developer specializing in the React JS, Next JS, MERn stack and working as Frontend developer \
 💻 &nbsp;I'am currently working as a software developer in a tech company. \
 🎓&nbsp;I graduated form Lahore Garrison University (Bachelor of Science in Computer Science, Batch of 2018-2022).\
 🌱 &nbsp;I'm on track for learning more about Website, Application Development, Artificial  and Computer Vision.\
